@@ -1,0 +1,2 @@
+---
+node_install_cmd: "curl -sL https://deb.nodesource.com/setup_11.x | sudo bash -"

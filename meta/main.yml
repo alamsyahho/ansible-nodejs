@@ -1,0 +1,22 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: alamsyahho
+  description: Ansible roles to install nodejs for RedHat/Debian
+  license: "license MIT"
+  min_ansible_version: 2.5
+  platforms:
+    - name: EL
+      versions:
+      - 6
+      - 7
+    - name: Debian
+      versions:
+      - all
+  galaxy_tags:
+    - development
+    - web
+    - nodejs
+    - npm
+    - yarn
